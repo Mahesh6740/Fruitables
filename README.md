@@ -17,9 +17,6 @@ It includes pages like Home, Shop, Product Detail, Cart, Checkout, and Contact.
 - `lib/` – Libraries (Owl Carousel, Lightbox, etc.)
 - `scss/` – Bootstrap SCSS source files
 
-## 🌐 Live Demo
-(You can add a GitHub Pages link later)
-
 ## 📜 License
 This project originally comes from HTML Codex.  
 To remove author credit, you must purchase a license from:  
